@@ -21,6 +21,9 @@ var f
  g=" "
  
  console.log(typeof(g))
+ var arr1=["javascript","js"]
+ arr1=["Java","JS"]
+ console.log(arr1)
  
  
  
